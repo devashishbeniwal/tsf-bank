@@ -18,6 +18,6 @@ Start with a dummy data for upto 10 customers. Customers table with basic fields
 
 HOSTING PALTFORM -> heroku
 
-Website Link: [heroku deploy](https://shielded-lowlands-05055.herokuapp.com/)
+Website Link: [heroku deploy](https://mysterious-brook-08535.herokuapp.com/)
 
-Contact: [my linkedin](https://www.linkedin.com/in/lakshya-verma-492a51174/)
+Contact: [my linkedin](https://www.linkedin.com/in/devashish-beniwal-87324221a/)
